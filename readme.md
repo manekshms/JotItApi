@@ -3,7 +3,7 @@
 CRUD application for creating small notes.
 
 ## Prerequisites
-To run this project on your desktop, you need nodejs installed and mongoDB database server installed.
+To run this project on your desktop, you need nodejs installed, install nodemon node package globally `npm install -g nodemon` and mongoDB database server installed.
 
 ## Installation
 
