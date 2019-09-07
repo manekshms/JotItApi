@@ -3,13 +3,18 @@
 CRUD application for creating small notes.
 
 ## Prerequisites
-To run this project on your desktop, you need nodejs installed and mongoDB database server.
+To run this project on your desktop, you need nodejs installed and mongoDB database server installed.
 
 ## Installation
 
 * Start mongo database server
 * Create a .env file in project root directory, add configuration environment variables.
 * Run `npm i` which will install all the required dependencies
+
+## Usage
+
+* Run in production environment `npm start`
+* Run in development environment `npm dev`
 
 *** 
 
