@@ -1,4 +1,4 @@
-# Jot Api
+# JotIt Api
 
 CRUD application for creating small notes.
 
