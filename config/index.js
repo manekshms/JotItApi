@@ -1,9 +1,10 @@
 const dotenv =  require('dotenv');
+const path = require('path');
 
 // set  NODE_ENV to development by default
-process.env.NODE_ENV = process.env.NODE_ENV || 'development';
+process.env.NODE_ENV = process.env.NODE_ENV || 'dev';
 
-const envFound = dotenv.config();
+const envFound = dotenv.config({path: path.resolve(__dirname, `../config/${process.env.NODE_ENV}.env`)}); 
 if(!envFound) {
     // This error will crash the whole process
 
