@@ -544,7 +544,6 @@ To run this project on your desktop, you need nodejs installed, install nodemon 
     **Parameter Name:** Authorization  
     **Sample Value:** Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkOTFhODg3YjkyOGJmMWM4MmZkOWYyNCIsImlhdCI6MTU2OTgyNzk1M30.s1fX9i1oiS_QA-lZuC6C-_7f1ko8iFjH8osSU7I4Nmg  
     ***
-`
     * **Response Payload**      
         ***
         **Parameter Name:** data.note.[].description  
@@ -605,7 +604,6 @@ To run this project on your desktop, you need nodejs installed, install nodemon 
     **Parameter Name:** Authorization  
     **Sample Value:** Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkOTFhODg3YjkyOGJmMWM4MmZkOWYyNCIsImlhdCI6MTU2OTgyNzk1M30.s1fX9i1oiS_QA-lZuC6C-_7f1ko8iFjH8osSU7I4Nmg  
     ***
-`
     * **Response Payload**      
         ***
         **Parameter Name:** data.note.description  
