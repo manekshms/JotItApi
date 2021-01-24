@@ -4,3 +4,5 @@
 # misc
 .DS_Store
 /config/*.env
+
+!/config/sample.env
